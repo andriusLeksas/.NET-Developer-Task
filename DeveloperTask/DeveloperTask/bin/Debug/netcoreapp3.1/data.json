@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Wonderland",
+    "author": "Blazevik",
+    "category": "Action",
+    "language": "English",
+    "publicationDate": "2018-04-15",
+    "isbn": "1234567891"
+
+  },
+  {
+    "name": "Goat",
+    "author": "Kitten",
+    "category": "FairyTale",
+    "language": "Russian",
+    "publicationDate": "2018-04-15",
+    "isbn": "1234567891"
+  },
+
+  {
+    "name": "Milk",
+    "author": "Dog",
+    "category": "Comedy",
+    "language": "Russian",
+    "publicationDate": "2015-04-15",
+    "isbn": "1234567891"
+  }
+]

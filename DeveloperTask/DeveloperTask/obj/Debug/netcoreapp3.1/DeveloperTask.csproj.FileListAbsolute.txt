@@ -1,0 +1,15 @@
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\bin\Debug\netcoreapp3.1\DeveloperTask.exe
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\bin\Debug\netcoreapp3.1\DeveloperTask.deps.json
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\bin\Debug\netcoreapp3.1\DeveloperTask.runtimeconfig.json
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\bin\Debug\netcoreapp3.1\DeveloperTask.runtimeconfig.dev.json
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\bin\Debug\netcoreapp3.1\DeveloperTask.dll
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\bin\Debug\netcoreapp3.1\DeveloperTask.pdb
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\obj\Debug\netcoreapp3.1\DeveloperTask.csprojAssemblyReference.cache
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\obj\Debug\netcoreapp3.1\DeveloperTask.AssemblyInfoInputs.cache
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\obj\Debug\netcoreapp3.1\DeveloperTask.AssemblyInfo.cs
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\obj\Debug\netcoreapp3.1\DeveloperTask.csproj.CoreCompileInputs.cache
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\obj\Debug\netcoreapp3.1\DeveloperTask.dll
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\obj\Debug\netcoreapp3.1\DeveloperTask.pdb
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\obj\Debug\netcoreapp3.1\DeveloperTask.genruntimeconfig.cache
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\antan\source\repos\DeveloperTask\DeveloperTask\obj\Debug\netcoreapp3.1\DeveloperTask.csproj.CopyComplete
